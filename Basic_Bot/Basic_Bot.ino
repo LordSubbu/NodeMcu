@@ -9,8 +9,8 @@
 #define m4 D3 
 #define b1 D5
 
-const char* ssid = "Anonymous"; //Enter your wifi network SSID
-const char* password ="batman123"; //Enter your wifi network password
+const char* ssid = "Subbu"; //Enter your wifi network SSID
+const char* password ="87654321"; //Enter your wifi network password
 
 
 const int SERVER_PORT = 1111;
